@@ -1,0 +1,25 @@
+{
+  "name": "shill",
+  "version": "1.0.0",
+  "description": "- Weekly poll of the coin/token to shill the week after\r - pay Hopium to shillweek.com to buy votes\r - Hopium received at shillweek.com will be used to fund the site and to continue incentive for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopiumdollar/shill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopiumdollar/shill/issues"
+  },
+  "homepage": "https://github.com/hopiumdollar/shill#readme",
+  "dependencies": {
+    "gatsby": "^3.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
